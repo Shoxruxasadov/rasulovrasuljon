@@ -18,8 +18,7 @@ export default function Hero() {
                         <span className='name'>Rasuljon Rasulov</span>
                     </h1>
                     <h2>
-                        <span className='frontend'>Frontend</span><br />
-                        <span className='developer'>&nbsp;&nbsp;Dasturchi</span>
+                        <span className='job'>IT Tadbirkor</span>
                     </h2>
                     <p>Men Rasuljon Rasulov, Frontend dasturchi, Grafik dizayner, Buxgalterlik tajribasiga egaman.</p>
                     <div className="contacts">
